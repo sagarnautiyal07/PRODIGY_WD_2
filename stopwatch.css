@@ -1,0 +1,35 @@
+.bhatt{
+    background-color: teal;
+}
+#stopwatch-container {
+    width: 600px;
+    margin: 10% auto;
+    padding: 5% 0;
+    color: #e7eafb;
+    text-align: center;
+    background-color: #8a0000;
+    box-shadow: 10px 60px 64px 2px #9c9a9a;
+    border-radius: 60px;
+}
+ 
+#stopwatch {
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+ 
+button {
+    width: 100px;
+    height: 30px;
+    background-color: #003c02;
+    color: white;
+    border-radius: 600px;
+    border: 2px solid #fff;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+ 
+button:hover {
+    background-color: #fff;
+    color: #202020;
+    cursor: pointer;
+}
